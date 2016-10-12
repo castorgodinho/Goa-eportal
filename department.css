@@ -1,0 +1,17 @@
+#stack-menu{
+  background-color: white;
+  padding: 20px 5px 20px 10px;
+}
+
+#department-div{
+  padding: 20px 40px 20px 40px;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+  color: #fff;
+  background-color: #0B5B60;
+}
+
+.nav-pills{
+  padding: 20px;
+}
